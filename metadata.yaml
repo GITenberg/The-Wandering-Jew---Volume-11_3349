@@ -1,5 +1,8 @@
 _repo: The-Wandering-Jew---Volume-11_3349
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sue, Eugène
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1186
     wikipedia: http://en.wikipedia.org/wiki/Eugène_Sue
 description: Translation of Le Juif errant.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3349#The-Wandering-Jew---Volume-11
 gutenberg_issued: '2004-10-25'
 gutenberg_type: Text
 identifiers:
